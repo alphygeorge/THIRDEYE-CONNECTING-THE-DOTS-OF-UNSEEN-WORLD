@@ -1,4 +1,6 @@
 #Abstract
+
+
 Blind and visually impaired people have encountered a lot of challenges when performing
 most of the natural activities performed by non-disabled people. In particular, many
 dangerous situations occur in environments that are unfamiliar to them. This IoT project
